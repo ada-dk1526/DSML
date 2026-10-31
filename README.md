@@ -2,7 +2,7 @@
 
 ## Downloading the Materials
 1. Clone/Download this repository.
-2. Download Lecture_data and Exercise_data from [here](), unzip and replace the empty file in the cloned repository.
+2. Download Lecture_data and Exercise_data from [here](https://imperiallondon-my.sharepoint.com/:f:/g/personal/psalah_ic_ac_uk/IgCAlgYCGK-_QrfDSorO30P8AZciV1PG3qmWcbYxRkcSY_I?e=klxi5d), unzip and replace the empty file in the cloned repository.
 
 ## 🔗 Installing the Dependencies
 To set up your environment, make sure you have conda installed.
